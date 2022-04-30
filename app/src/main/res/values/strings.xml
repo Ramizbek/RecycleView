@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string name="name">Name:</string>
+    <string name="save">save</string>
+    <string name="tahrirlash">Tahrirlash</string>
+    <string name="o_chrish">O\'chrish</string>
+</resources>
